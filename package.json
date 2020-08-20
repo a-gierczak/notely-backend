@@ -31,7 +31,7 @@
     "@types/passport-jwt": "^3.0.1",
     "@types/ramda": "types/npm-ramda#dist",
     "aws-sdk": "^2.359.0",
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "class-transformer": "^0.2.0",
     "class-validator": "^0.9.x",
     "csprng": "^0.1.2",
