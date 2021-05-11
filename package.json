@@ -36,7 +36,7 @@
     "class-validator": "^0.9.x",
     "csprng": "^0.1.2",
     "date-fns": "^1.29.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mime-types": "^2.1.21",
     "mysql": "^2.16.0",
     "passport": "^0.4.0",
